@@ -11,7 +11,7 @@
     "cors": "^2.8.5"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "author": "اسمك",
   "license": "MIT"
